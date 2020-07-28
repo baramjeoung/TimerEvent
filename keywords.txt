@@ -1,0 +1,31 @@
+#######################################
+# Syntax Coloring Map
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+TimerEvent	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+init			KEYWORD2
+start			KEYWORD2
+pause			KEYWORD2
+stop			KEYWORD2
+run			KEYWORD2
+getStatus		KEYWORD2
+setFinishTime		KEYWORD2
+setIntervalTime		KEYWORD2
+setInfinite		KEYWORD2
+addFinishTime		KEYWORD2
+setIntervalCallback	KEYWORD2
+setFinishCallback	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
